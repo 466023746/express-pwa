@@ -8,3 +8,7 @@ if ('serviceWorker' in navigator) {
             console.log('service worker registered');
         })
 }
+
+import firstScreen from './firstScreen'
+
+firstScreen();
