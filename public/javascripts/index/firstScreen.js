@@ -3,5 +3,7 @@
  */
 
 export default function () {
+    /* eslint-disable no-console */
     console.log('first ');
+    /* eslint-enable no-console */
 }

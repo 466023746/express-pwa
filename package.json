@@ -13,7 +13,10 @@
     "cookie-parser": "~1.4.3",
     "debug": "~2.2.0",
     "ejs": "~2.4.1",
+    "eslint": "^3.11.1",
+    "eslint-loader": "^1.6.1",
     "express": "~4.13.4",
+    "global": "^4.3.1",
     "gulp": "^3.9.1",
     "gulp-sass": "^2.3.2",
     "morgan": "~1.7.0",
@@ -30,5 +33,8 @@
     "type": "git"
   },
   "author": "challenget <466023746@qq.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.11.1"
+  }
 }
